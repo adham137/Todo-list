@@ -45,7 +45,7 @@ public class UserInterface {
 
             
         }
-        System.out.println("kosomk");
+        System.out.println("Good bye!");
     }
     public void add(){
         System.out.println("To add:");
